@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "description":
     "Render Markdown in React Native with native components (iOS & Android)",
-  "main": "lib/index.js",
-  "files": ["lib"],
+  "main": "src/index.js",
+  "files": ["src"],
   "author": "Charles Mangwa <charlesmangwa@gmail.com>",
   "scripts": {
     "lint": "eslint .",
